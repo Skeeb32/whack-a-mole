@@ -71,7 +71,7 @@ button {
 }
 
 .hole:after {
-    content: " ";
+    content: "";
     display: block;
     background-image: url("sand1.png");
     position: absolute;
